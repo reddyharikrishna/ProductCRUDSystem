@@ -3,8 +3,6 @@
 [Watch video URL](https://firebasestorage.googleapis.com/v0/b/fir-project-bb000.appspot.com/o/projecttask.mp4?alt=media&token=b759dc7b-6076-4fde-a626-54b87194bae8)
 
 
-
-
 ## Description
 A simple Product CRUD (Create, Read, Update, Delete) system that allows users to manage product information. This project demonstrates basic database operations and user interface design.
 
