@@ -27,7 +27,7 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
 ## Installation
 1. Clone the repository
 
-    git clone https://github.com/yourusername/ProductCRUDSystem.git
+    git clone https://github.com/reddyharikrishna/ProductCRUDSystem
 
 2. Run the application
 
