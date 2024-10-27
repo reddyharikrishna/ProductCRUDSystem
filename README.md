@@ -6,9 +6,6 @@
 
 
 
-
-
-
 ## Description
 A simple Product CRUD (Create, Read, Update, Delete) system that allows users to manage product information. This project demonstrates basic database operations and user interface design.
 
@@ -40,6 +37,20 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
    - View existing products
    - Update product information
    - Remove products from the system
+
+
+
+# Inner Join and Outer Join
+
+![URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/sqltask.pdf)
+
+
+
+# API call
+
+![URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/apicalltask.pdf)
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
