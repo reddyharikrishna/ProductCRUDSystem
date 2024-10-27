@@ -12,7 +12,6 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
 - Update existing product information
 - Delete products from the system
 - Search and filter products
-- Responsive user interface
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript, thymeleaf
