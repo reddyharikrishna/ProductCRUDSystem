@@ -45,6 +45,6 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License [MIT](https://choosealicense.com/licenses/mit/)- see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License [MIT](https://choosealicense.com/licenses/mit/).
 
 
