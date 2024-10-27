@@ -21,11 +21,11 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
 ## Installation
 1. Clone the repository
 
-git clone https://github.com/yourusername/ProductCRUDSystem.git
+    git clone https://github.com/yourusername/ProductCRUDSystem.git
 
 2. Run the application
 
-click on run button in CrudDemoApplication.java class
+    click on run button in CrudDemoApplication.java class
 
 ## Usage
 1. Access the application at `http://localhost`
