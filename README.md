@@ -42,13 +42,13 @@ A simple Product CRUD (Create, Read, Update, Delete) system that allows users to
 
 # Inner Join and Outer Join
 
-![URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/sqltask.pdf)
+[URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/sqltask.pdf)
 
 
 
 # API call
 
-![URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/apicalltask.pdf)
+[URL](https://github.com/reddyharikrishna/ProductCRUDSystem/blob/main/apicalltask.pdf)
 
 
 
